@@ -1,0 +1,42 @@
+ *{
+
+    margin: 0;
+    padding: 0;
+ }
+    
+.header{
+        min-height: 100vh;
+    
+    width: 100%;
+    
+    background-image: linear-
+    gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images /banner.png) ;
+    background-position: center:
+    background-size: cover;
+    position: relative;
+}
+    nav{
+    display: flex;
+    padding: 2
+    }
+
+/* Ändern Sie die Schriftgröße der Überschriften */
+h2 {
+    font-size: 25px;
+}
+
+/* Fügen Sie einen Rand und Abstand zu den Navigationspunkten hinzu */
+nav ul li {
+   
+    margin-left: 1px;
+}
+
+/* Ändern Sie die Farbe der Navigationslinks */
+/*nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
